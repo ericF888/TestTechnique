@@ -1,0 +1,6 @@
+Je n'ai malheuresement pas pu accorder le temps que j'aurais voulu au test suite a des problemes personel. 
+Cependant en l'espace de deux jours su lequel j'ai pu me concentrer sur le projet environ 25H, j'ai reussi a faire l'etape 1 et 2 en entier ainsi 
+que une partie de la troisième ou j'affiche une popin avec les episodes ou les personnage sont dedans , je n'arrive malheuresement pas 
+recupere pour chaque episodes les images des personnages y figurants. 
+J'ai trouve le test relativement simple (effectivement j'ai pas mal de project qui ressemblais a cela) par moment notement etape 1 et 2
+suite a cela jai du prendre en main la syntaxe de vue.js ce qui qui ma pris un peu temps, c'est ce qui ma le plus "embeter" sur ce test. 
